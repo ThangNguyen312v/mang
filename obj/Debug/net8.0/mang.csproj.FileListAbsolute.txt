@@ -1,0 +1,14 @@
+E:\mang\bin\Debug\net8.0\mang.exe
+E:\mang\bin\Debug\net8.0\mang.deps.json
+E:\mang\bin\Debug\net8.0\mang.runtimeconfig.json
+E:\mang\bin\Debug\net8.0\mang.dll
+E:\mang\bin\Debug\net8.0\mang.pdb
+E:\mang\obj\Debug\net8.0\mang.GeneratedMSBuildEditorConfig.editorconfig
+E:\mang\obj\Debug\net8.0\mang.AssemblyInfoInputs.cache
+E:\mang\obj\Debug\net8.0\mang.AssemblyInfo.cs
+E:\mang\obj\Debug\net8.0\mang.csproj.CoreCompileInputs.cache
+E:\mang\obj\Debug\net8.0\mang.dll
+E:\mang\obj\Debug\net8.0\refint\mang.dll
+E:\mang\obj\Debug\net8.0\mang.pdb
+E:\mang\obj\Debug\net8.0\mang.genruntimeconfig.cache
+E:\mang\obj\Debug\net8.0\ref\mang.dll
